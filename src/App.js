@@ -43,7 +43,7 @@ function App() {
       <input type="button" className="btn btn-danger mr-2" value="Stop" onClick={stopSound}></input>
 
       <label><input type="checkbox" checked={playInLoop} onChange={e => setPlayInLoop(e.target.checked)} /> Play in Loop</label>
-      <div className="mt-5"><b>Note: </b> In order to make it work, You have to update the path of the audio file in above code.</div>
+      <div className="mt-5"><b>Note: </b> In order to make it work, You have to update the path of the audio file in App.js file.</div>
     </div>
   );
 }
