@@ -2,7 +2,7 @@
 Example to play a mp3 file in ReactJS
 
 Please check the below link for step by step tutorial
-**https://www.cluemediator.com/how-to-play-a-mp3-file-in-reactjs**
+**https://www.cluemediator.com/how-to-play-an-mp3-file-in-reactjs**
 
 ## Setup
 Follow below steps to run project
